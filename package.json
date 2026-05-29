@@ -1,0 +1,13 @@
+﻿{
+  "name": "hingatech-backend",
+  "version": "1.0.0",
+  "description": "HingaTech Smart Farm Backend",
+  "main": "server-prod.js",
+  "scripts": {
+    "start": "node server-prod.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
